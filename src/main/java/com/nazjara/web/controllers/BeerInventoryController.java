@@ -1,8 +1,8 @@
-package guru.sfg.beer.inventory.service.web.controllers;
+package com.nazjara.web.controllers;
 
-import guru.sfg.beer.inventory.service.repositories.BeerInventoryRepository;
-import guru.sfg.beer.inventory.service.web.mappers.BeerInventoryMapper;
-import guru.sfg.beer.inventory.service.web.model.BeerInventoryDto;
+import com.nazjara.repositories.BeerInventoryRepository;
+import com.nazjara.web.mappers.BeerInventoryMapper;
+import com.nazjara.web.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
