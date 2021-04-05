@@ -1,7 +1,7 @@
 package com.nazjara.web.mappers;
 
-import com.nazjara.web.model.BeerInventoryDto;
 import com.nazjara.domain.BeerInventory;
+import com.nazjara.web.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 /**
