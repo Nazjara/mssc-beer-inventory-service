@@ -1,4 +1,4 @@
-package guru.sfg.beer.inventory.service.config;
+package com.nazjara.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
