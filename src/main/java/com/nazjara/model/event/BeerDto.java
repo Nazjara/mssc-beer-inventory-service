@@ -1,4 +1,4 @@
-package com.nazjara.event;
+package com.nazjara.model.event;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.nazjara.event;
+package com.nazjara.model.event;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

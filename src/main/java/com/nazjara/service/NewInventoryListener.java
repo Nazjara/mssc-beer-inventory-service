@@ -2,7 +2,7 @@ package com.nazjara.service;
 
 import com.nazjara.config.JmsConfig;
 import com.nazjara.domain.BeerInventory;
-import com.nazjara.event.NewInventoryEvent;
+import com.nazjara.model.event.NewInventoryEvent;
 import com.nazjara.repositories.BeerInventoryRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

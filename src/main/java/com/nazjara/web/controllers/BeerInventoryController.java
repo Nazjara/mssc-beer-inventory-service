@@ -2,7 +2,7 @@ package com.nazjara.web.controllers;
 
 import com.nazjara.repositories.BeerInventoryRepository;
 import com.nazjara.web.mappers.BeerInventoryMapper;
-import com.nazjara.web.model.BeerInventoryDto;
+import com.nazjara.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
